@@ -1,0 +1,21 @@
+{
+    "name": "zkeduo/tools",
+    "description": "支付宝和微信接口对接文档",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zkeduo\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "henry",
+            "email": "hailing.lin@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
