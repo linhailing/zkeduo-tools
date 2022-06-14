@@ -9,7 +9,7 @@
 // | Author: henry <hailing.lin@outlook.com>
 // +----------------------------------------------------------------------
 
-namespace Zkeduo\Tools;
+namespace Zkeduo\Tools\AliPay;
 
 use Zkeduo\Tools\AliPay\Request\AliPayOpenAgentSignStatusQuery;
 use Zkeduo\Tools\AliPay\Request\AliPayOpenFeeAdjustApply;
