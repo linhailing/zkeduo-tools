@@ -3,7 +3,7 @@
     "description": "支付宝和微信接口对接文档",
     "type": "project",
     "require": {
-        "phpunit/phpunit": "9.5.x-dev"
+        "phpunit/phpunit": "^9.5"
     },
     "license": "MIT",
     "autoload": {
